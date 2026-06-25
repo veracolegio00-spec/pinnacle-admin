@@ -1,3 +1,5 @@
+# React + Vite
+
 
 # Pinnacle Admin
 
@@ -42,4 +44,3 @@ npm run dev
 ## Estado del proyecto
 
 Sprint 2 en desarrollo.
-
